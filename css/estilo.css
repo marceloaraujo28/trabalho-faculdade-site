@@ -128,7 +128,7 @@
     margin-top: 45px;
     position: relative; 
     border-radius: 5px;
-    box-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,0 0 0.2em #87F;
+    box-shadow: 0 0 0.2em #000, 0 0 0.2em #000,0 0 0.2em #000;
 }
 
 .slidershow{
@@ -238,7 +238,7 @@ input[name="r"]{
 .title-conteudo h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
-    color:#5ebcff;
+    color: darkslategrey;
 }
 
 .txt-conteudo{

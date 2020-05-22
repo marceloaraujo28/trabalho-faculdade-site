@@ -145,7 +145,10 @@
 .texto{
     width: 575px;
     margin:0 auto;
-    margin-top: 125px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    margin-top: 90px;
+    text-align: justify;
 }
 
 .rodape{
